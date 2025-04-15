@@ -16,6 +16,7 @@ The site is built using the **Dimension** template by [HTML5 UP](https://html5up
 
 ## 📁 Structure
 
+```
 .
 ├── index.html              # Main landing page
 ├── assets/
@@ -28,7 +29,7 @@ The site is built using the **Dimension** template by [HTML5 UP](https://html5up
 ├── .gitignore              # Git exclusions for build files or sensitive content
 ├── LICENSE.txt             # License for the template and this project
 ├── README.md               # Project overview and structure (this file)
-
+```
 
 ## 🚀 Hosting
 
