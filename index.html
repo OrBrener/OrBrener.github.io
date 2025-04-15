@@ -363,9 +363,20 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 				</a>
 			  </p>
 
+			<p>
+				Built with ❤️ & hosted on
+				<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer" </a>GitHub Pages</a>.
+			</p>
 			<p>&copy; 2025 Or Brener. All rights reserved.</p>
+			<p id="last-edited"></p>
 					</footer>
 		  
+		<script>
+			const lastEdited = new Date(document.lastModified);
+			document.getElementById("last-edited").innerText =
+				"Last updated: " + lastEdited.toLocaleDateString();
+		</script>
+
 
 			</div>
 
