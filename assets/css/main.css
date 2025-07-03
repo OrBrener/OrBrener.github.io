@@ -1805,3 +1805,13 @@ input, select, textarea {
 		  #footer a:hover i {
 			color: #0077b5; /* LinkedIn blue or custom color */
 		  }
+
+@media screen and (max-width: 600px) {
+	.skill-category h4 {
+		font-size: 2.25vw;
+		line-height: 1.1;
+		word-break: normal;
+		overflow-wrap: normal;
+		letter-spacing: 0.08rem;
+	}
+}
